@@ -1,0 +1,21 @@
+# Topper Hub Team - Class 10th Quiz Website
+
+This is a Class 10th Quiz Website for the Topper Hub Team, including quizzes on Math, Science, and History, and a leaderboard feature.
+
+## Features
+- Subject-wise quizzes
+- Leaderboard to track top scores
+- Simple and user-friendly interface
+
+## How to Use
+1. Visit the website at: `https://yourusername.github.io/topper-hub-team`.
+2. Select your desired subject (Math, Science, or History) to start the quiz.
+3. View your position in the leaderboard after completing the quiz.
+
+## Technology Stack
+- HTML for structure
+- CSS for styling
+- JavaScript for functionality
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
